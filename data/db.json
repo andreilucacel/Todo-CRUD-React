@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "id": "6d7a",
+      "title": "sport",
+      "body": "luni-sala, miercuri-fotbal",
+      "author": "Andrei",
+      "completed": true
+    },
+    {
+      "id": "2de0",
+      "title": "scoala",
+      "body": "matematica-luni\nromana-marti\nalgoritmica-miercuri",
+      "author": "Mihai"
+    },
+    {
+      "id": "23a8",
+      "title": "mancare",
+      "body": "de facut: sarmale, supa, ciorba",
+      "author": "Lucacel",
+      "completed": true
+    }
+  ]
+}
